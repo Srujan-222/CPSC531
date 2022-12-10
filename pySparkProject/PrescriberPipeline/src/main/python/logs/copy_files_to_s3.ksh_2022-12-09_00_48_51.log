@@ -1,0 +1,10 @@
+copy_files_to_s3.ksh Started...: Fri Dec  9 00:48:51 UTC 2022
+upload failed: ../output/dimension_city/part-00000-ed2f455e-715e-4251-8871-ec1cd0442899-c000.json.bz2 to s3://prescpipeline/dimension_city/2022-12-09-00-48-51/part-00000-ed2f455e-715e-4251-8871-ec1cd0442899-c000.json.bz2 An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+City File /home/srujan222/PycharmProjects/PrescriberPipeline/src/main/python/output/dimension_city/part-00000-ed2f455e-715e-4251-8871-ec1cd0442899-c000.json.bz2 is pushed to S3.
+upload failed: ../output/dimension_city/us_cities_dimension.parquet to s3://prescpipeline/dimension_city/2022-12-09-00-48-51/us_cities_dimension.parquet An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+City File /home/srujan222/PycharmProjects/PrescriberPipeline/src/main/python/output/dimension_city/us_cities_dimension.parquet is pushed to S3.
+upload failed: ../output/presc/part-00000-511a98cd-6b0b-441d-b6ef-77ac9f026ebb-c000.snappy.orc to s3://prescpipeline/presc/2022-12-09-00-48-51/part-00000-511a98cd-6b0b-441d-b6ef-77ac9f026ebb-c000.snappy.orc An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+Presc file /home/srujan222/PycharmProjects/PrescriberPipeline/src/main/python/output/presc/part-00000-511a98cd-6b0b-441d-b6ef-77ac9f026ebb-c000.snappy.orc is pushed to s3.
+upload failed: ../output/presc/part-00001-511a98cd-6b0b-441d-b6ef-77ac9f026ebb-c000.snappy.orc to s3://prescpipeline/presc/2022-12-09-00-48-51/part-00001-511a98cd-6b0b-441d-b6ef-77ac9f026ebb-c000.snappy.orc An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+Presc file /home/srujan222/PycharmProjects/PrescriberPipeline/src/main/python/output/presc/part-00001-511a98cd-6b0b-441d-b6ef-77ac9f026ebb-c000.snappy.orc is pushed to s3.
+The copy_files_to_s3.ksh is Completed...: Fri Dec  9 00:48:57 UTC 2022

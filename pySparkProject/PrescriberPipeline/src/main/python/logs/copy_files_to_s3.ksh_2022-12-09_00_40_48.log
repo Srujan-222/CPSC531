@@ -1,0 +1,8 @@
+copy_files_to_s3.ksh Started...: Fri Dec  9 00:40:48 UTC 2022
+
+The user-provided path /home/sibaramnanda2021/projects/PrescPipeline/src/main/python/output/dimension_city/*.* does not exist.
+City File /home/sibaramnanda2021/projects/PrescPipeline/src/main/python/output/dimension_city/*.* is pushed to S3.
+
+The user-provided path /home/sibaramnanda2021/projects/PrescPipeline/src/main/python/output/presc/*.* does not exist.
+Presc file /home/sibaramnanda2021/projects/PrescPipeline/src/main/python/output/presc/*.* is pushed to s3.
+The copy_files_to_s3.ksh is Completed...: Fri Dec  9 00:40:50 UTC 2022

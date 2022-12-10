@@ -1,0 +1,44 @@
+copy_files_to_azure.ksh Started...: Fri Dec  9 02:54:22 UTC 2022
+INFO: Scanning...
+INFO: Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+
+Job 90951f04-3af8-8745-44de-81e8f7c0fd05 has started
+Log file is located at: /home/srujan222/.azcopy/90951f04-3af8-8745-44de-81e8f7c0fd05.log
+
+INFO: Could not read destination length. If the destination is write-only, use --check-length=false on the command line.
+100.0 %, 3 Done, 0 Failed, 0 Pending, 0 Skipped, 3 Total, 2-sec Throughput (Mb/s): 5.923
+
+
+Job 90951f04-3af8-8745-44de-81e8f7c0fd05 summary
+Elapsed Time (Minutes): 0.0334
+Number of File Transfers: 3
+Number of Folder Property Transfers: 0
+Total Number of Transfers: 3
+Number of Transfers Completed: 3
+Number of Transfers Failed: 0
+Number of Transfers Skipped: 0
+TotalBytesTransferred: 1481551
+Final Job Status: Completed
+
+INFO: Scanning...
+INFO: Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+
+Job f3cb73c8-1f91-7845-6322-5a07c613bc6d has started
+Log file is located at: /home/srujan222/.azcopy/f3cb73c8-1f91-7845-6322-5a07c613bc6d.log
+
+INFO: Could not read destination length. If the destination is write-only, use --check-length=false on the command line.
+100.0 %, 3 Done, 0 Failed, 0 Pending, 0 Skipped, 3 Total, 2-sec Throughput (Mb/s): 0.045
+
+
+Job f3cb73c8-1f91-7845-6322-5a07c613bc6d summary
+Elapsed Time (Minutes): 0.0333
+Number of File Transfers: 3
+Number of Folder Property Transfers: 0
+Total Number of Transfers: 3
+Number of Transfers Completed: 3
+Number of Transfers Failed: 0
+Number of Transfers Skipped: 0
+TotalBytesTransferred: 11260
+Final Job Status: Completed
+
+The copy_files_to_azure.ksh is Completed...: Fri Dec  9 02:54:26 UTC 2022

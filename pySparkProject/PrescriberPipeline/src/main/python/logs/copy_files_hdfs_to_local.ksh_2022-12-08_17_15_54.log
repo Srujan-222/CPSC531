@@ -1,0 +1,4 @@
+copy_files_hdfs_to_local.ksh Started...: Thu Dec  8 17:15:54 UTC 2022
+get: `PrescriberPipeline/output/dimension_city/*': No such file or directory
+get: `PrescriberPipeline/output/presc/*': No such file or directory
+copy_files_hdfs_to_local.ksh is Completed...: Thu Dec  8 17:15:58 UTC 2022
